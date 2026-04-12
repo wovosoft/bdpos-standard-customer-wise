@@ -28,7 +28,7 @@
         "@ckeditor/ckeditor5-build-decoupled-document": "^19.0.2",
         "@ckeditor/ckeditor5-ckfinder": "^19.0.1",
         "@ckeditor/ckeditor5-essentials": "^19.0.1",
-        "@ckeditor/ckeditor5-image": "^19.0.1",
+        "@ckeditor/ckeditor5-image": "^27.0.0",
         "@ckeditor/ckeditor5-vue": "^1.0.1",
         "@fortawesome/fontawesome-free": "^5.13.0",
         "alpinejs": "^2.3.5",
